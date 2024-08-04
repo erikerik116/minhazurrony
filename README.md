@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Minhazur Rahman, <br />
   a Frontend Developer passionate about React.js!
 </h1>
-
-- 🔭 I’m currently working on a open source project [Plain UI](https://github.com/reactizard/plain-ui)
   
 - 🌱 I’m currently learning **Node.js, Express.js**
 
